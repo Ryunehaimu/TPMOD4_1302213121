@@ -1,0 +1,15 @@
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\bin\Debug\net6.0\tpmodul4_1302213121.exe
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\bin\Debug\net6.0\tpmodul4_1302213121.deps.json
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\bin\Debug\net6.0\tpmodul4_1302213121.runtimeconfig.json
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\bin\Debug\net6.0\tpmodul4_1302213121.dll
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\bin\Debug\net6.0\tpmodul4_1302213121.pdb
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.dll
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\refint\tpmodul4_1302213121.dll
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.pdb
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\tpmodul4_1302213121.genruntimeconfig.cache
+D:\Kuliah\SEMESTER 4\KPL\tpmodul4_1302213121\tpmodul4_1302213121\tpmodul4_1302213121\obj\Debug\net6.0\ref\tpmodul4_1302213121.dll
